@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KeyValues</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="saved_button_press_count_key"> </string>
+    <string name="highsc"></string>
+    <string name="currentsc"></string>
+    <string name="saveddata"></string>
+</resources>
